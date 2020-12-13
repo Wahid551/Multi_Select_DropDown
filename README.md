@@ -8,7 +8,7 @@ In two ways we can build Multi Select Button .
 2. Using Custom Widget.
 
 ## ScreensHot
-<img src='https://user-images.githubusercontent.com/73393935/102010506-46dd6000-3d60-11eb-8a50-c6bc4664dfa9.jpeg' width=280  />   <img src='https://user-images.githubusercontent.com/73393935/102010508-480e8d00-3d60-11eb-86ee-b24215f74705.jpeg' width=280  />  <img src='https://user-images.githubusercontent.com/73393935/102010510-49d85080-3d60-11eb-9ca3-68b217e54961.jpeg' width=280  />  <img src='https://user-images.githubusercontent.com/73393935/102010511-4ba21400-3d60-11eb-9e21-53f57a181338.jpeg' width=280  />
+<img src='https://user-images.githubusercontent.com/73393935/102010506-46dd6000-3d60-11eb-8a50-c6bc4664dfa9.jpeg' width=280  /><img src='https://user-images.githubusercontent.com/73393935/102010508-480e8d00-3d60-11eb-86ee-b24215f74705.jpeg' width=280  /><img src='https://user-images.githubusercontent.com/73393935/102010510-49d85080-3d60-11eb-9ca3-68b217e54961.jpeg' width=280  /><img src='https://user-images.githubusercontent.com/73393935/102010511-4ba21400-3d60-11eb-9e21-53f57a181338.jpeg' width=280  />
 
 ## Gif Vedio
 <img src='https://user-images.githubusercontent.com/73393935/102010595-d71ba500-3d60-11eb-9fac-d7286f99213a.gif' width=300 />
